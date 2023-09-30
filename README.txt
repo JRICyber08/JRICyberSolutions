@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Arcana by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -17,6 +18,8 @@ AJ
 aj@lkn.io | @ajlkn
 
 PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+=======
+>>>>>>> 1c7d4e3e4f9cd7a1110b1b307390693ab541f498
 
 
 Credits:
@@ -29,4 +32,8 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+<<<<<<< HEAD
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+=======
+		Responsive Tools (github.com/ajlkn/responsive-tools)
+>>>>>>> 1c7d4e3e4f9cd7a1110b1b307390693ab541f498
